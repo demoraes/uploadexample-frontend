@@ -6,8 +6,8 @@ Este projeto tem por finalidade o estudo de como fazer upload de imagens, usando
 
 ### 💻 Demo Web
 
-[Visitar o site](https://uploaded-examplefrontend.herokuapp.com/)
-[Backend da aplicação](https://github.com/demoraes/uploadexample-backend)
+- [Visitar o site](https://uploaded-examplefrontend.herokuapp.com/)
+- [Backend da aplicação](https://github.com/demoraes/uploadexample-backend)
 
 ### ⚙ Técnologias utilizadas
 <ul>
